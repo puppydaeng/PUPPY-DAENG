@@ -204,7 +204,7 @@ function breedCity(ctx,b,prov,city){
  '<div class="detail-hero"><span class="eyebrow">LOCAL BREED / MOVING CONSULTATION</span><h1>'+e(cityShort+b.name)+'분양<br>'+e(city+b.name)+'분양 안내</h1>'+p(description)+
  '<a class="btn dark" href="'+e(config.kakao)+'">이 지역 상담하기 ↗</a></div>'+
  '<section class="section layout-two"><div>'+
- h2card(city+" "+b.name+"분양 전 알아둘 점",'<p><strong>'+e(city+" 지역에서 "+b.name)+"</strong>를 맞이한다면 실제 강아지의 현재 성장 상태, 생활환경과 건강·접종 기록을 확인하는 것이 중요합니다.</p>'+p(b.intro)+p(b.care))+
+ h2card(city+" "+b.name+"분양 전 알아둘 점",'<p><strong>'+e(city+" 지역에서 "+b.name)+'</strong>를 맞이한다면 실제 강아지의 현재 성장 상태, 생활환경과 건강·접종 기록을 확인하는 것이 중요합니다.</p>'+p(b.intro)+p(b.care))+
  h2card("성견 크기와 건강 기록",'<div class="info-list"><div><small>견종</small><strong>'+e(b.name)+'</strong></div><div><small>활동 수준</small><strong>'+e(b.activity)+'</strong></div><div><small>피모 관리</small><strong>'+e(b.coat)+'</strong></div><div><small>분양금액</small><strong>개체별 상담 확인</strong></div></div>'+p(b.health))+
  h2card(city+" 이동분양 상담 순서",'<ul><li>희망 견종과 '+e(city)+' 이동 상담 가능 여부를 확인합니다.</li><li>현재 상담 가능한 개체의 생년월일과 건강·접종 기록을 확인합니다.</li><li>총 분양비용과 계약·인계 장소, 이동 일정을 확인합니다.</li><li>인계 후 동물병원 방문 계획과 생활환경을 준비합니다.</li></ul>')+
  galleryContent+faqBlock(faq)+
