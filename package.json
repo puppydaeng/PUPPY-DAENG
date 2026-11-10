@@ -1,0 +1,12 @@
+{
+  "name": "nobubble-pet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "노버블펫 - 견종별 서브도메인과 지역별 강아지분양 정보",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "preview": "node scripts/preview.mjs",
+    "check": "node --check src/worker.js"
+  }
+}

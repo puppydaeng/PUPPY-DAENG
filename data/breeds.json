@@ -1,0 +1,209 @@
+[
+  {
+    "slug": "maltipoo",
+    "name": "말티푸",
+    "en": "MALTIPOO",
+    "size": "소형견 · 부모견 조합에 따라 차이",
+    "activity": "보통~활발",
+    "coat": "곱슬·직모가 섞일 수 있음",
+    "intro": "말티즈와 푸들 계열의 교배견으로 부모견의 체구와 모질에 따라 외형과 관리 난도가 달라집니다.",
+    "care": "빗질과 주기적인 미용, 산책과 짧은 훈련 시간을 함께 계획하세요.",
+    "health": "슬개골·눈·치아 상태 및 접종 기록을 실제 개체별로 확인하세요.",
+    "colors": [
+      "크림",
+      "화이트",
+      "애프리콧"
+    ],
+    "photoSlug": "maltipoo",
+    "photo": "https://ddaydj.xyz/assets/dogs/maltipoo/maltipoo-01.webp"
+  },
+  {
+    "slug": "maltese",
+    "name": "말티즈",
+    "en": "MALTESE",
+    "size": "소형견",
+    "activity": "보통",
+    "coat": "길고 부드러운 피모",
+    "intro": "사람과 가까이 지내기를 좋아하는 경향이 있지만 낯선 환경에 대한 반응은 개체마다 다릅니다.",
+    "care": "눈가와 치아를 관리하고 긴 털을 유지한다면 엉킴을 예방하세요.",
+    "health": "슬개골·치아·안과 진료 및 예방접종 기록을 확인하세요.",
+    "colors": [
+      "화이트"
+    ],
+    "photoSlug": "maltese",
+    "photo": "https://ddaydj.xyz/assets/dogs/maltese/maltese-01.webp"
+  },
+  {
+    "slug": "bichon",
+    "name": "비숑프리제",
+    "en": "BICHON FRISÉ",
+    "size": "소형견",
+    "activity": "활발한 편",
+    "coat": "풍성한 곱슬털",
+    "intro": "풍성한 피모와 밝은 인상으로 잘 알려져 있지만 활동량과 성격은 개체마다 다릅니다.",
+    "care": "빗질과 정기적인 미용 시간을 확보하고 활동적인 놀이를 준비하세요.",
+    "health": "귀·피부·슬개골 상태와 개체별 건강 기록을 확인하세요.",
+    "colors": [
+      "화이트"
+    ],
+    "photoSlug": "bichon-frise",
+    "photo": "https://ddaydj.xyz/assets/dogs/bichon-frise/bichon-frise-01.webp"
+  },
+  {
+    "slug": "pomeranian",
+    "name": "포메라니안",
+    "en": "POMERANIAN",
+    "size": "소형견",
+    "activity": "활발한 편",
+    "coat": "이중모 · 계절별 털갈이",
+    "intro": "작은 체구와 풍성한 이중모가 특징이며 경계 행동이나 짖음은 환경과 사회화에 따라 달라집니다.",
+    "care": "이중모를 꾸준히 빗질하고 더위 관리와 안전한 산책을 신경 써주세요.",
+    "health": "슬개골·기관·치아 상태를 확인하고 건강검진 자료를 요청하세요.",
+    "colors": [
+      "오렌지",
+      "화이트",
+      "크림",
+      "블랙"
+    ],
+    "photoSlug": "pomeranian",
+    "photo": "https://ddaydj.xyz/assets/dogs/pomeranian/pomeranian-01.webp"
+  },
+  {
+    "slug": "toy-poodle",
+    "name": "토이푸들",
+    "en": "TOY POODLE",
+    "size": "소형견",
+    "activity": "활발한 편",
+    "coat": "곱슬털 · 정기 미용 필요",
+    "intro": "놀이와 학습에 관심이 높은 편이지만 기질과 에너지는 개체마다 다릅니다.",
+    "care": "노즈워크와 기초 훈련을 병행하고 털 엉킴을 관리하세요.",
+    "health": "눈·귀·슬개골 및 부모견 건강 기록을 확인하세요.",
+    "colors": [
+      "애프리콧",
+      "레드",
+      "화이트",
+      "실버"
+    ],
+    "photoSlug": "toy-poodle",
+    "photo": "https://ddaydj.xyz/assets/dogs/toy-poodle/toy-poodle-01.webp"
+  },
+  {
+    "slug": "goldendoodle",
+    "name": "골든두들",
+    "en": "GOLDENDOODLE",
+    "size": "중형~대형 · 부모견 체구에 따라 차이",
+    "activity": "높음",
+    "coat": "다양한 털 형태 · 정기 미용",
+    "intro": "골든리트리버와 푸들 계열의 교배견으로 성장 크기와 피모는 부모견 구성에 따라 크게 달라집니다.",
+    "care": "충분한 운동과 두뇌 놀이, 넉넉한 생활공간과 미용 비용을 계획하세요.",
+    "health": "부모견의 고관절·팔꿈치·눈 검사와 개체별 접종 기록을 확인하세요.",
+    "colors": [
+      "크림",
+      "골드",
+      "애프리콧"
+    ],
+    "photoSlug": null,
+    "photo": null
+  },
+  {
+    "slug": "golden-retriever",
+    "name": "골든리트리버",
+    "en": "GOLDEN RETRIEVER",
+    "size": "대형견",
+    "activity": "높음",
+    "coat": "이중모 · 털갈이",
+    "intro": "사람과의 교감을 좋아하는 경향이 있는 대형견으로 운동·훈련에 충분한 시간이 필요합니다.",
+    "care": "매일 산책과 놀이를 준비하고 이중모 빗질을 꾸준히 해주세요.",
+    "health": "고관절·팔꿈치 검사와 부모견 건강 정보를 확인하세요.",
+    "colors": [
+      "골드",
+      "크림"
+    ],
+    "photoSlug": "golden-retriever",
+    "photo": "https://ddaydj.xyz/assets/dogs/golden-retriever/golden-retriever-01.webp"
+  },
+  {
+    "slug": "shiba",
+    "name": "시바견",
+    "en": "SHIBA INU",
+    "size": "중소형견",
+    "activity": "활발한 편",
+    "coat": "이중모 · 계절 털갈이",
+    "intro": "독립적인 기질을 보이는 개체가 많아 일관된 사회화와 안전한 산책이 중요합니다.",
+    "care": "하네스를 잘 맞추고 탈출 위험을 관리하며 일상 속 보상 훈련을 이어가세요.",
+    "health": "피부·눈·슬개골 상태와 접종·진료 기록을 확인하세요.",
+    "colors": [
+      "적색",
+      "흑갈색"
+    ],
+    "photoSlug": "shiba-inu",
+    "photo": "https://ddaydj.xyz/assets/dogs/shiba-inu/shiba-inu-01.webp"
+  },
+  {
+    "slug": "welsh-corgi",
+    "name": "웰시코기",
+    "en": "WELSH CORGI",
+    "size": "중형견",
+    "activity": "높음",
+    "coat": "이중모 · 털 빠짐 많은 편",
+    "intro": "짧은 다리와 긴 체형이 특징이며 체중 조절과 충분한 활동이 중요합니다.",
+    "care": "미끄럼을 줄이는 실내 바닥과 규칙적 산책, 체중 관리를 준비하세요.",
+    "health": "척추·관절 관련 상태와 개체별 진료 기록을 확인하세요.",
+    "colors": [
+      "레드화이트",
+      "트라이컬러"
+    ],
+    "photoSlug": "welsh-corgi",
+    "photo": "https://ddaydj.xyz/assets/dogs/welsh-corgi/welsh-corgi-01.webp"
+  },
+  {
+    "slug": "yorkshire",
+    "name": "요크셔테리어",
+    "en": "YORKSHIRE TERRIER",
+    "size": "소형견",
+    "activity": "활발한 편",
+    "coat": "길고 고운 털",
+    "intro": "작은 체구에도 호기심이 많은 경우가 있어 실내놀이와 일관된 훈련이 중요합니다.",
+    "care": "눈가·치아·발톱을 관리하고 긴 털의 엉킴을 예방하세요.",
+    "health": "치아·슬개골·기관 상태와 진료 기록을 확인하세요.",
+    "colors": [
+      "블루탄",
+      "블랙탄"
+    ],
+    "photoSlug": "yorkshire-terrier",
+    "photo": "https://ddaydj.xyz/assets/dogs/yorkshire-terrier/yorkshire-terrier-01.webp"
+  },
+  {
+    "slug": "shih-tzu",
+    "name": "시츄",
+    "en": "SHIH TZU",
+    "size": "소형견",
+    "activity": "보통",
+    "coat": "길고 풍성한 털",
+    "intro": "비교적 차분한 인상이지만 더위와 호흡 문제를 고려해 개체를 살펴야 합니다.",
+    "care": "눈가·털·치아를 관리하고 더운 날 무리한 운동을 피하세요.",
+    "health": "눈·호흡기·치아 건강 및 건강검진 기록을 확인하세요.",
+    "colors": [
+      "골드화이트",
+      "블랙화이트"
+    ],
+    "photoSlug": "shih-tzu",
+    "photo": "https://ddaydj.xyz/assets/dogs/shih-tzu/shih-tzu-01.webp"
+  },
+  {
+    "slug": "coton",
+    "name": "꼬똥드툴레아",
+    "en": "COTON DE TULÉAR",
+    "size": "소형견",
+    "activity": "보통~활발",
+    "coat": "부드럽고 풍성한 피모",
+    "intro": "사람과 가까이 지내는 경향이 있지만 실제 생활 반응과 활동량을 개체별로 확인해야 합니다.",
+    "care": "부드러운 피모를 자주 빗질하고 산책과 놀이 시간을 확보하세요.",
+    "health": "슬개골과 안과 건강, 접종·진료 기록을 확인하세요.",
+    "colors": [
+      "화이트"
+    ],
+    "photoSlug": "coton-de-tulear",
+    "photo": "https://ddaydj.xyz/assets/dogs/coton-de-tulear/coton-de-tulear-01.webp"
+  }
+]

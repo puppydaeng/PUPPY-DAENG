@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "nobubble-pet",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-10",
+  "vars": {
+    "BASE_DOMAIN": "",
+    "PUBLIC_INDEXING": "false"
+  }
+}
